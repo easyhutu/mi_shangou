@@ -1,0 +1,25 @@
+GET https://tp2.hd.mi.com/hdget/cn?jsonpcallback=cn2154300001&source=flashsale&product=2154300001&salt=67a228991505f23e&m=1&addcart=1&cstr1=1824315208_0184955467a8153692d5e1a76f69796a519e3e268671553&cstr2=eKQ9bnmRgKEuNcUhlnXDMbgcIyLZYjRUhAR0FT22dNw52mAqJjk6EXu%2BG56qi3Ax%2Fh5gx1KweVE%3D&_=1538445568990 HTTP/1.1
+Host: tp2.hd.mi.com
+Connection: keep-alive
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36
+DNT: 1
+Accept: */*
+Referer: https://www.mi.com/seckill/
+Accept-Encoding: gzip, deflate, br
+Accept-Language: zh-CN,zh;q=0.9
+Cookie: xmuuid=XMGUEST-042A5A00-68D4-11E8-9E88-57EFA237432D; mstuid=1528212044893_2108; muuid=15383577631_2635; Hm_lvt_4982d57ea12df95a2b24715fb6440726=1538444271; client_id=180100031058; masid=10046.mvno10001; Hm_lpvt_4982d57ea12df95a2b24715fb6440726=1538444426; euid=dTj5s50YZ%2BfhdGhR%2BN5Wdg%3D%3D; XM_637160660_UN=%E5%92%8C%E9%A3%8E%E6%B8%90%E7%8C%9B; lastsource=account.xiaomi.com; userId=637160660; cUserId=tuumeT4xlqBZm5ynMsPo_ubuzIA; xm_order_btauth=d63de1012bb7cf217cd7c48e0512e183; xm_link_history=Mpu7mXyvTtx62GvUysqXKZuOAiL5aVSh05SMK6%2FRvYk%3D; mUserId=g3Mmof7Ums%2F9DS8Lb5bH9hlBYvw%2FTjGJLr8ZNpniJDE%3D; axmuid=g3Mmof7Ums%2F9DS8Lb5bH9hlBYvw%2FTjGJLr8ZNpniJDE%3D; xm_user_www_num=14; hd_log_code=31activity_homeseckill%23goodsid%3D2180400001%26start_time%3D1538445600%26end_time%3D1538447220%26bid%3D3184494; pageid=0c4f795950898e2b; msttime=https%3A%2F%2Fwww.mi.com%2Fseckill%2F; msttime1=https%3A%2F%2Fwww.mi.com%2Fseckill%2F; log_code=0c4f795950898e2b-c5bcb2713d98c395|https%3A%2F%2Fwww.mi.com%2Fseckill%2F; mstz=||2000667768.128||https%253A%252F%252Fwww.mi.com%252Findex.html|https%25253A%25252F%25252Fwww.mi.com%25252Findex.html; xm_vistor=1528212044893_2108_1538444259555-1538445611714
+
+
+GET https://a.stat.xiaomi.com/js/mstr.js?mstpid=0c4f795950898e2b-e1b70f7a08675127&mid=dTj5s50YZ%2BfhdGhR%2BN5Wdg%3D%3D&device_id=&phpsessid=&mstuid=1528212044893_2108&muuid=15383577631_2635&mucid=&sessionId=2000667768&step=126&new_visitor=0&mstprevpid=&mstprev_pid_loc=&prevtarget=&lastsource=account.xiaomi.com&timestamp=1538445607832&ref=https%3A%2F%2Fwww.mi.com%2Findex.html&domain=.mi.com&screen=1280*720&language=zh-CN&vendor=Google%20Inc.&platform=Win32&gu=https%253A%252F%252Fwww.mi.com%252Findex.html&miwd=&edm_task=&masid=10046.mvno10001&client_id=180100031058&pu=https%3A%2F%2Fwww.mi.com%2Findex.html&rf=0&mutid=&muwd=&target=javascript%3Avoid0&pid_loc=pcpid&log_code=&domain_id=100&pageid=0c4f795950898e2b&curl=https%3A%2F%2Fwww.mi.com%2Fseckill%2F&xmv=1528212044893_2108_1538444259555&v=1.0.0&vuuid=TFPU9DNVRKLPJMSD&time_id= HTTP/1.1
+Host: a.stat.xiaomi.com
+Connection: keep-alive
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36
+DNT: 1
+Accept: */*
+Referer: https://www.mi.com/seckill/
+Accept-Encoding: gzip, deflate, br
+Accept-Language: zh-CN,zh;q=0.9
+Cookie: uLocale=zh_CN; userName=136***392; cUserId=tuumeT4xlqBZm5ynMsPo_ubuzIA
+
+
+https://a.stat.xiaomi.com/js/mstr.js?mstpid=0c4f795950898e2b-edc47a703f57e126&mid=dTj5s50YZ%2BfhdGhR%2BN5Wdg%3D%3D&device_id=&phpsessid=&mstuid=1538450067925_7304&muuid=&mucid=&sessionId=1731357779&step=17&new_visitor=0&mstprevpid=&mstprev_pid_loc=&prevtarget=&lastsource=account.xiaomi.com&timestamp=1538452564963&ref=https%3A%2F%2Faccount.xiaomi.com%2Fpass%2Fservicelogin%3Fcallback%3Dhttps%253a%252f%252forder.mi.com%252flogin%252fcallback%253ffollowup%253dhttps%25253a%25252f%25252fwww.mi.com%25252fseckill%25252f%2526sign%253dogu1ntc1nzcwnjixzwq3yje5ymizmtq1ywqznge4oddjnjk2m2ixmq%252c%252c%7Csid%3Dmi_eshop%7C_bannerbiz%3Dmistore%7C_qrsize%3D180&domain=.mi.com&screen=1280*720&language=zh-CN&vendor=Google%20Inc.&platform=Win32&gu=https%253A%252F%252Faccount.xiaomi.com%252Fpass%252Fservicelogin%253Fcallback%253Dhttps%25253a%25252f%25252forder.mi.com%25252flogin%25252fcallback%25253ffollowup%25253dhttps%2525253a%2525252f%2525252fwww.mi.com%2525252fseckill%2525252f%252526sign%25253dogu1ntc1nzcwnjixzwq3yje5ymizmtq1ywqznge4oddjnjk2m2ixmq%25252c%25252c%257Csid%253Dmi_eshop%257C_bannerbiz%253Dmistore%257C_qrsize%253D180&miwd=&edm_task=&masid=&client_id=&pu=https%3A%2F%2Faccount.xiaomi.com%2Fpass%2Fservicelogin%3Fcallback%3Dhttps%253a%252f%252forder.mi.com%252flogin%252fcallback%253ffollowup%253dhttps%25253a%25252f%25252fwww.mi.com%25252fseckill%25252f%2526sign%253dogu1ntc1nzcwnjixzwq3yje5ymizmtq1ywqznge4oddjnjk2m2ixmq%252c%252c%7Csid%3Dmi_eshop%7C_bannerbiz%3Dmistore%7C_qrsize%3D180&rf=0&mutid=&muwd=&target=javascript%3Avoid0&pid_loc=pcpid&log_code=&domain_id=100&pageid=0c4f795950898e2b&curl=https%3A%2F%2Fwww.mi.com%2Fseckill%2F&xmv=1538450067925_7304_1538452508971&v=1.0.0&vuuid=MAD4I40BEEK7IG1M&time_id=
