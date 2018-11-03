@@ -22,4 +22,4 @@ PWD = ''
 # 是否开启邮件提醒
 IS_SEND_EMAIL = True
 # 接收邮件提醒的邮箱
-RECEIVER = '1711621009@qq.com'
+RECEIVER = ''
