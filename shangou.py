@@ -6,7 +6,7 @@ import sys
 from mi_lib.shop_list import get_shop_list
 import time
 from mi_lib.login_mi import login_get_cookie
-from mi_lib.shan_req import shangou_request
+from mi_lib.shan_req import shangou_request, shangou_request_one
 
 
 
@@ -36,13 +36,13 @@ def task_executor(shop):
             cookie = login_get_cookie()
             while True:
                 l_ti = time.time()
-                # 距离开始抢购1.2秒时进入抢购环节
-                if s_time > l_ti + 1.5:
+                # 距离开始抢购0.8秒时进入抢购环节
+                if s_time > l_ti + 0.8:
                     sys.stdout.write('\r距秒杀《{}》开始还有 {}'.format(shop.get('name'), s_time - l_ti))
                     sys.stdout.flush()
                     time.sleep(0.1)
                 else:
-                    shangou_request(shop, cookie)
+                    shangou_request_one(shop, cookie)
                     break
             break
 
