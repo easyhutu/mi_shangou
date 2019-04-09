@@ -65,7 +65,11 @@ def hdget_make_params(shop: dict, salt, cookie):
         cstr1=make_ctr1(),
         # cstr2='ZHXgu8noD5UHzYOe4O%2FpjfrHdYBYDKRx2nLAlH0EJhEnQCKc5T%2FWl4d7VZnGQWQYtpQwN%2FxxsPw%3D',
         cstr2='{}='.format(ram_str(75)),
-        _=local_time()
+        _=local_time(),
+        ap=17,
+        ac=200,
+        ad=1928,
+        aa=1928001
     )
     params['jsonpcallback'] = 'cn' + shop.get('goods_id')
     params['product'] = shop.get('goods_id')
