@@ -11,8 +11,8 @@ from datetime import datetime
 import sys
 from settings import USERNAME
 
-gurl = 'http://45.76.14.9/x/task/mi?task_name={}'.format(USERNAME)
-purl = 'http://45.76.14.9/x/task/mi'
+gurl = 'http://39.105.167.167/x/task/mi?task_name={}'.format(USERNAME)
+purl = 'http://39.105.167.167/x/task/mi'
 
 
 def get_ser_cookies():
