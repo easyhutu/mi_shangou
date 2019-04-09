@@ -3,7 +3,7 @@ Author: Meng
 Date: 2018/10/6
 """
 secret = '0e288e41d1aca75267e53f8190ac6be4'
-url = 'http://45.76.14.9/x/send_email'
+url = 'http://39.105.167.167/x/send_email'
 import requests
 from settings import IS_SEND_EMAIL, RECEIVER
 
