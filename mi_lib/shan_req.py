@@ -13,6 +13,7 @@ from mi_lib.send_email import success_email, failed_email
 from queue import Queue
 import string
 import hashlib
+import json
 
 qus = Queue()
 
@@ -97,8 +98,8 @@ def add_make_params(shop: dict, token: str, cookie):
     )
     params['jsonpcallback'] = 'jQuery' + '11130' + ram_ch() + '_' + local_time()
     params['product_id'] = shop.get('goods_id')
-    params['extend_field[end_time]'] = shop.get('end_time')
-    params['extend_field[start_time]'] = shop.get('start_time')
+    #params['extend_field[end_time]'] = shop.get('end_time')
+    params['extend_field'] = json.dumps({'start_time': shop.get('start_time'), 'end_time': shop.get('end_time')})
     params['token'] = token
     params['_'] = local_time()
     url = add_url.format(shop.get('goods_id'))
